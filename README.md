@@ -1,6 +1,6 @@
 ## Description
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+Framework nest usando mongoose para comunicação com o mongodb
 
 ## Installation
 
